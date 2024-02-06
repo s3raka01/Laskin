@@ -1,0 +1,20 @@
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\bin\Debug\Edistyneempi laskin.exe.config
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\bin\Debug\Edistyneempi laskin.exe
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\bin\Debug\Edistyneempi laskin.pdb
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi_laskin.Form1.resources
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi_laskin.Properties.Resources.resources
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.csproj.GenerateResource.cache
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.csproj.CoreCompileInputs.cache
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.exe
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.pdb
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.csproj.AssemblyReference.cache
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\bin\Debug\Edistyneempi laskin.exe.config
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\bin\Debug\Edistyneempi laskin.exe
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\bin\Debug\Edistyneempi laskin.pdb
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.csprojAssemblyReference.cache
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi_laskin.Form1.resources
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi_laskin.Properties.Resources.resources
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.csproj.GenerateResource.cache
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.csproj.CoreCompileInputs.cache
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.exe
+C:\Users\s3raka01\OneDrive - OSAO\Cohjelmointi\Edistyneempi laskin\Edistyneempi laskin\obj\Debug\Edistyneempi laskin.pdb
